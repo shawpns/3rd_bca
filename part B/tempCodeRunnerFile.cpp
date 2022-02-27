@@ -1,0 +1,1 @@
+cout << " Modulus = " << a%b<< endl;
